@@ -1,5 +1,3 @@
-Initial README file for CoderStack API
-
-http://www.coderstack.co.uk
+Initial README file for [CoderStack] (http://www.coderstack.co.uk)  API
 
 
